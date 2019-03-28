@@ -2,7 +2,7 @@
 date = "2019-03-12T23:00:00+00:00"
 image = "/uploads/Eikichi_Onizuka.png"
 title = "Onizuka"
-weight = 2
+weight = 1
 writer = "onizuka"
 
 +++
