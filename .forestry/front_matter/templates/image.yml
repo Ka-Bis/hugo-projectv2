@@ -26,6 +26,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/onizuka.md
 - content/post/coucou.md
 - content/post/blabla.md
 - content/post/papillon.md
