@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>blabla</title>
+      <link>https://example.org/post/blabla/</link>
+      <pubDate>Tue, 26 Mar 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/post/blabla/</guid>
+      <description>Les lépidoptères sont un ordre d&amp;rsquo;insectes holométaboles dont la forme adulte est communément appelée papillon, dont la larve est appelée chenille, et la nymphe chrysalide.</description>
+    </item>
+    
+    <item>
       <title>Name of the work 1</title>
       <link>https://example.org/post/work1/</link>
       <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
