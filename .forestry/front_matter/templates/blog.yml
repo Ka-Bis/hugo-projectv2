@@ -7,18 +7,16 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: image
+- type: file
+  name: image
   label: Image
-  type: text
-  hidden: false
-  default: ''
 - name: writer
   label: Writer
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
   type: text
   hidden: false
   default: ''
