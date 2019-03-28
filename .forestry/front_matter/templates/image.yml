@@ -26,5 +26,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/coucou.md
 - content/post/blabla.md
 - content/post/papillon.md
