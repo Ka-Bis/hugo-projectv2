@@ -1,4 +1,4 @@
-baseurl = "https://heuristic-blackwell-ed7f07.netlify.com/"
+baseurl = "https://kanha-hugo-project.netlify.com"
 title = "Blog"
 theme = "hugo-nederburg-theme"
 languageCode = "fr-fr"
