@@ -1,5 +1,5 @@
 ---
-label: Image
+label: Blog
 hide_body: false
 fields:
 - name: date
@@ -12,11 +12,9 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: image
+- type: file
+  name: image
   label: Image
-  type: text
-  hidden: false
-  default: ''
 - name: writer
   label: Writer
   type: text
